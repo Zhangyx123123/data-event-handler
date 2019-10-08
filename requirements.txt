@@ -1,0 +1,6 @@
+flask
+flask-restful
+gunicorn
+requests
+sqlalchemy
+pymysql
